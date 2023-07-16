@@ -1,16 +1,24 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cristianaguero/cristianaguero/blob/main/logo-no-background.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cristianaguero/cristianaguero/blob/main/logo-no-background.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
-<!--
-**cristianaguero/cristianaguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I'm a freelance full stack developer with a passion for coding and a strong background in the insurance industry. I possess analytical thinking, attention to detail, and precision, which are highly applicable to coding. My effective communication, adaptability, and problem-solving skills have been honed through interactions with clients and colleagues, making me an asset for collaborative coding projects. With experience in data analysis and time management, I ensure efficient and effective software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professional Skills
+Front-end: HTML, CSS (including Bootstrap and Tailwind), JavaScript (ES6), React.
+Back-end: NodeJS, Express, SQL, MongoDB, Firebase, Heroku (Dyno).
+Google Data Analytics: Spreadsheets, SQL, Tableau, R.
+Other relevant skills: REST APIs, Unit-Testing, Git.
+
+Languages
+Spanish: Native
+English: Fluent
+Portuguese: Intermediate
+Hebrew: Basic
+Hobbies
+In my free time, I enjoy gaming and participating in CrossFit.
+
+Feel free to reach out to me for any freelance development projects or collaborations. Let's build something amazing together!
