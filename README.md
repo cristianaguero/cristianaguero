@@ -36,6 +36,7 @@ Also, as you can see, I'm very commit with my mustache!
 
 </br>
 
-#### Feel free to reach out to me for any freelance development projects or collaborations. Let's build something amazing together!
+#### Feel free to reach out to me for any freelance development projects or collaborations. </br>
+## Let's build something amazing together!
 
 </br>
