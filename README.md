@@ -32,7 +32,7 @@ Other relevant skills: REST APIs, Unit-Testing, Git.
 
 ## Hobbies
 In my free time, I enjoy gaming and training CrossFit. </br>
-Also, as you can see, I'm very commit with my mustache!
+Also, as you can see, I'm fully commited to my mustache!
 
 </br>
 
