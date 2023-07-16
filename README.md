@@ -7,7 +7,7 @@
 </br>
 </br>
 
-# Hi There! I'm Chris
+# Hi There! I'm Chris 👋
 </br>
 
 I'm a freelance full stack developer with a passion for coding and a strong background in the insurance industry. I possess analytical thinking, attention to detail, and precision, which are highly applicable to coding. My effective communication, adaptability, and problem-solving skills have been honed through interactions with clients and colleagues, making me an asset for collaborative coding projects. With experience in data analysis and time management, I ensure efficient and effective software development.
@@ -15,9 +15,9 @@ I'm a freelance full stack developer with a passion for coding and a strong back
 </br>
 
 ## Professional Skills
-Front-end: HTML, CSS (including Bootstrap and Tailwind), JavaScript (ES6), React.
-Back-end: NodeJS, Express, SQL, MongoDB, Firebase, Heroku (Dyno).
-Google Data Analytics: Spreadsheets, SQL, Tableau, R.
+Front-end: HTML, CSS (including Bootstrap and Tailwind), JavaScript (ES6), React. </br>
+Back-end: NodeJS, Express, SQL, MongoDB, Firebase, Heroku (Dyno). </br>
+Google Data Analytics: Spreadsheets, SQL, Tableau, R. </br>
 Other relevant skills: REST APIs, Unit-Testing, Git.
 
 </br>
@@ -31,7 +31,7 @@ Other relevant skills: REST APIs, Unit-Testing, Git.
 </br>
 
 ## Hobbies
-In my free time, I enjoy gaming and training CrossFit.
+In my free time, I enjoy gaming and training CrossFit. </br>
 Also, as you can see, I'm very commit with my mustache!
 
 </br>
