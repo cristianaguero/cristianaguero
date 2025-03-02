@@ -16,7 +16,7 @@ I'm a freelance full stack developer with a passion for coding and a strong back
 
 ## Professional Skills
 Front-end: HTML, CSS (including Bootstrap and Tailwind), JavaScript (ES6), React, NextJS, Remix, Astro, Angular. </br>
-Back-end: NodeJS, Express, SQL, MongoDB, Firebase. </br>
+Back-end: C#, DotNet, NodeJS, Express, NestJS, SQL, MongoDB. </br>
 Google Data Analytics: Spreadsheets, SQL, Tableau, R. </br>
 Other relevant skills: REST APIs, Unit-Testing, Git.
 
